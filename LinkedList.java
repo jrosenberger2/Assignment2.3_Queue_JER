@@ -1,8 +1,7 @@
-package queue;
 /**
  * LinkedList.java is a generic version of LinkedList.java 
  * @author Jared Rosenberger
- * @version 10/3/22
+ * @version 11/9/22
  * LinkedList.java
  * Fall 2022
  */
