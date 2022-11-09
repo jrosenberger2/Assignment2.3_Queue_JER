@@ -1,8 +1,7 @@
-package queue;
 /**
  * Application tests the methods of Queue.java
  * @author Jared Rosenberger
- * @version 9/29/22
+ * @version 11/9/22
  * Application.java
  * Fall 2022
  */
