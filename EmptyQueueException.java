@@ -1,8 +1,7 @@
-package queue;
 /**
  * EmptyQueueException.java extends Exception and is used to alert the user when they attempt to dequeue an empty queue
  * @author Jared Rosenberger
- * @version 9/29/22
+ * @version 11/9/22
  * EmptyQueueException.java
  * Fall 2022
  */
