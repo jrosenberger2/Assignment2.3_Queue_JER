@@ -1,7 +1,6 @@
-package queue;
 /** 
  * An interface for the ADT queue.
- * @version 10/3/22
+ * @version 11/9/22
  */
 public interface QueueInterface<T>
 {
