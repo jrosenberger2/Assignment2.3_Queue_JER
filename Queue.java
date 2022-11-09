@@ -1,8 +1,7 @@
-package queue;
 /**
  * Queue is a generic implementation of the Queue ADT
  * @author Jared Rosenberger
- * @version 10/3/22
+ * @version 11/9/22
  * Queue.java
  * Fall 2022
  */
