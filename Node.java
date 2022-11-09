@@ -1,8 +1,7 @@
-package queue;
 /** 
  * Node.java turns Node.java into generic Code
  * @author Jared Rosenberger
- * @version 9/29/22
+ * @version 11/9/22
  * Node.java
  * Fall 2022
  */
